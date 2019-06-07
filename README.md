@@ -1,4 +1,4 @@
-# @coxmediagroup/queue
+# @coxmediagroup/queue-js
 
 JavaScript queue library
 
@@ -7,13 +7,13 @@ JavaScript queue library
 ### Install
 
 ```bash
-  npm i coxmediagroup/queue
+npm install coxmediagroup/queue-js
 ```
 
 ### Example
 
 ```js
-const { Queue } = require('@coxmediagroup/queue');
+const { Queue } = require('@coxmediagroup/queue-js');
 
 // Create a new Queue
 const queue = new Queue();
